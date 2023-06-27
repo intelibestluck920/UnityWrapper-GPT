@@ -24,6 +24,3 @@ Here's a screenshot of a demo I put together with a simple UI. The UI files are 
 ![Screenshot 2023-02-05 at 10 47 13 PM](https://user-images.githubusercontent.com/89364458/216893256-efe3d9e2-fb7d-4833-bae5-9dcb0e9d5717.png)
 
 
-## Credits
-This repo gave me the idea to do this in Unity: <br>
-https://github.com/acheong08/ChatGPT
